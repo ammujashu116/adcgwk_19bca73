@@ -1,0 +1,24 @@
+import java.util.scanner;
+class Automorphic
+{
+public static void main(String[]args)
+{
+int num;
+Scanner.sc=new Scanner(System.in);
+System.out.println("enter first number");
+num=sc.nextInt();
+intk=n*n;
+while(p<n)
+{
+p=k%d;
+d=d*10;
+}
+if(p==n)
+{
+System.out.println(n+'is an automorphic number");
+}
+else{
+System.out.println(n+"is annot automorphic number");
+}
+}
+}
